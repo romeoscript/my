@@ -1,0 +1,22 @@
+ body{
+ padding:0px ;
+background-image:url(../../images/romeo.jpg);
+background-repeat: repeat-y;  
+margin-top: 0px;
+background-attachment:fixed;
+background-position:center;
+background-size:500px;
+background-width:200px;
+}
+h2 {
+position:relative ;
+text-align:center;
+text-transform:uppercase;
+color:white;
+ }
+ p {
+ color:black;
+ text-align:center;
+ font-type:san-serif;
+  }
+  
